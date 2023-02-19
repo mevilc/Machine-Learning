@@ -10,7 +10,18 @@ Uses NB to filter ham and spam emails
 MNIST handwritten inage recognition
 
 ## 4. Linear Regression
+
 ## 5. Non-Linear Regression
+
 ## 6. Soft Margin Classifier
-## 6. Soft Margin Classifier
+
+## 7. Support Vector Machine, Non-linear SVM
+
+## 8. K-Means Clustering
+
+## 9. Principal Component Analysis 
+Used for face detection
+
+## 10. Expectation-Maximization
+
 
